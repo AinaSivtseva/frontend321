@@ -13,6 +13,6 @@
 npx http-server
 ```
 
-Browse to [http://192.168.1.142:8080/](http://192.168.1.142:8080/)
+Browse to [http://192.168.0.103:8080](http://192.168.0.103:8080)
 
-Live Demo [https://iliafilimonov1.github.io/frontend-321-airbnb.github.io/](https://iliafilimonov1.github.io/frontend-321-airbnb.github.io/)
+Live Demo [https://ainasivtseva.github.io/frontend321/](https://ainasivtseva.github.io/frontend321/)

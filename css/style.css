@@ -3,6 +3,9 @@
 @import "../css/forms.css";
 @import "../lib/swiper.css";
 @import "../css/modal.css";
+@import "../css/help.css";
+@import "../css/tabs.css";
+
 
 
 
@@ -127,6 +130,12 @@ img {
   transform: scaleX(1);
 }
 
+.header-buttons {
+  display: inline-flex;
+  width: 15%;
+  justify-content: space-between;
+}
+
 
 
 /* banner */
@@ -211,28 +220,6 @@ main {
   width: 313px;
   display: inline-flex;
 }
-
-.card-help {
-  position: relative;
-  width: 313px;
-  
-}
-
-.cards-h{
-  display: flex;
-  justify-content: space-between;
-}
-
-.card-text-help {
-  color: #222222;
-  font-size:19px;
-  display: flex;
-  justify-content: center;
-}
-
-
-
-
 
 .card {
   margin-bottom: 30px;
@@ -567,29 +554,3 @@ h3 {
   align-items: center;
   justify-content: space-between;
 }
-
-/* баннер на странице help */
-.banner-help{
-  display: flex;
-  padding: 24px;
-  box-sizing: border-box;
-  border: 1px solid #DDDDDD;
-  /* flex-wrap: nowrap; */
-  justify-content: space-between;
-  border-radius: 16px;
-  box-sizing: border-box;
-  width: 1063.6px;
-  height: 107.6px;
-  margin: auto;
-  margin-top: 35px;
-}
-
-.Subtitle-help{
-  width: 1126.6px;
-  height: 60px;
-  margin: auto;
-  margin-top: 74px;
-  display: flex;
-  justify-content: space-between;
-}
-

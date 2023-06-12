@@ -189,7 +189,12 @@ img {
     border-radius: 16px;
     margin: 35px auto auto;
 }
-
+   
+.Subtitle-help {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 48px;
+}
 
 /* swiper-slider   */
 .swiper-button-prev,
